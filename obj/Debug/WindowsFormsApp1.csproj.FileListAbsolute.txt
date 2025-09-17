@@ -1,0 +1,91 @@
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoadingScreen.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPage.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerRegistration.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerDashboard.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerPage.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerPage.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerDashboard.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerRegister.resources
+C:\Users\PC\Desktop\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerPage.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoadingScreen.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPage.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerRegistration.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerDashboard.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerRegister.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerPage.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerPage.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerDashboard.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerPage.resources
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahnaf\Downloads\Telegram Desktop\SmartFarm Project\SmartFarm Project\codes\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoadingScreen.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPage.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerRegistration.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerDashboard.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerRegister.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerPage.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerPage.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerDashboard.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerPage.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductDashboard.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Profile.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FinanaceDashboard.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Buyer_Profile.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewProducts.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyerOrder.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reportissue.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ShowOrders.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Viewtask.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerProfile.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AssignTask.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inventory.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerProfile.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Supplies.resources
+C:\Users\ahnaf\OneDrive\Desktop\project\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UpdateIssue.resources
+D:\c#\Main\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\c#\Main\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\c#\Main\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\c#\Main\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
